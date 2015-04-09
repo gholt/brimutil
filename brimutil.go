@@ -4,14 +4,14 @@
 
 // Package brimutil contains tools there isn't another place for yet.
 //
-// This is the latest development area for the package.
+// This is the latest stable version of the package.
 //
-// For the latest stable version of the package, switch to the
-// v1 branch at https://github.com/gholt/brimutil/tree/v1
-// or use gopkg.in/gholt/brimutil.v1 as the import path.
+// For the latest development version of the package, switch to the
+// master branch at https://github.com/gholt/brimutil
+// or use github.com/gholt/brimutil as the import path.
 //
-// Also, you'd want to use http://godoc.org/gopkg.in/gholt/brimutil.v1
-// for the v1 documentation.
+// Also, you'd want to use http://godoc.org/github.com/gholt/brimutil
+// for the development documentation.
 package brimutil
 
 import (
